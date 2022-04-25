@@ -9,13 +9,13 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://chenreuven.github.io',
-  baseUrl: '/ChenReuven/tech/',
+  baseUrl: '/tech/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ChenReuven', // Usually your GitHub org/user name.
   projectName: 'tech', // Usually your repo name.
-  githubHost: 'github.com',
+  // githubHost: 'github.com',
   trailingSlash: false,
 
   presets: [
