@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Chen Reuven',
+  tagline: 'Tech ❤️',
   url: 'https://chenreuven.github.io',
   baseUrl: '/tech/',
   onBrokenLinks: 'throw',
@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'ChenReuven', // Usually your GitHub org/user name.
   projectName: 'tech', // Usually your repo name.
-  // githubHost: 'github.com',
   trailingSlash: false,
 
   presets: [
@@ -45,9 +44,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Chen Reuven',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Chen Reuven Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -59,7 +58,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ChenReuven',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,12 +102,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ChenReuven',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Chen Reuven, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

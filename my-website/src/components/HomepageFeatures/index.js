@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import myAvatar from '@site/static/img//my-avatar.jpeg';
 
 const FeatureList = [
   {
@@ -53,10 +54,11 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
+        <div className={`row ${styles.justifyCenter}`}>
+          {/* {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
-          ))}
+          ))} */}
+          <img src={myAvatar} width={250}/>
         </div>
       </div>
     </section>
