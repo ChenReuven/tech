@@ -80,16 +80,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/ChenRvn',
               },
             ],
           },
@@ -103,7 +95,13 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/ChenReuven',
-              },
+              }, {
+                label: 'Stackblitz',
+                href: "https://stackblitz.com/@ChenReuven"
+              }, {
+                label: "CodeSandbox",
+                href: "https://codesandbox.io/u/ChenReuven"
+              }
             ],
           },
         ],
