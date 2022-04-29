@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30a49b27-4ce4-47dd-85e5-13ce2c4ea358" name="Changes" comment="change blog unused to test postfix">
+    <list default="true" id="30a49b27-4ce4-47dd-85e5-13ce2c4ea358" name="Changes" comment="fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-website/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <updated>1651212454317</updated>
       <workItem from="1651212455880" duration="1199000" />
       <workItem from="1651220212938" duration="8000" />
-      <workItem from="1651220221621" duration="2214000" />
+      <workItem from="1651220221621" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="add welcome blog">
       <created>1651221526286</created>
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651222084840</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix">
+      <created>1651222635065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651222635065</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +98,7 @@
     <MESSAGE value="add welcome blog" />
     <MESSAGE value="two practical tips" />
     <MESSAGE value="change blog unused to test postfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="change blog unused to test postfix" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
