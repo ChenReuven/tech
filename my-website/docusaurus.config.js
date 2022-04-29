@@ -47,15 +47,15 @@ const config = {
         title: 'Chen Reuven',
         logo: {
           alt: 'Chen Reuven Logo',
-          src: 'img/logo.svg',
+          src: 'https://media-exp1.licdn.com/dms/image/C5603AQG5BnneD12kVw/profile-displayphoto-shrink_800_800/0/1575403330847?e=1656547200&v=beta&t=TCuip7Ma8BMxeQN9DMTJCugWD83cGx8zXMs0Nb6A_zg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ChenReuven',
@@ -68,10 +68,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: ' ',
             items: [
               {
-                label: 'Tutorial',
+                label: ' ',
                 to: '/docs/intro',
               },
             ],
