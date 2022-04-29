@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30a49b27-4ce4-47dd-85e5-13ce2c4ea358" name="Changes" comment="add welcome blog">
+    <list default="true" id="30a49b27-4ce4-47dd-85e5-13ce2c4ea358" name="Changes" comment="change blog unused to test postfix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-website/blog/2021-08-01-mdx-blog-post.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/blog/2021-08-01-mdx-blog-post.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <updated>1651212454317</updated>
       <workItem from="1651212455880" duration="1199000" />
       <workItem from="1651220212938" duration="8000" />
-      <workItem from="1651220221621" duration="1755000" />
+      <workItem from="1651220221621" duration="2214000" />
     </task>
     <task id="LOCAL-00001" summary="add welcome blog">
       <created>1651221526286</created>
@@ -57,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651221526286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="two practical tips">
+      <created>1651222023557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651222023557</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change blog unused to test postfix">
+      <created>1651222084840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651222084840</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add welcome blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="add welcome blog" />
+    <MESSAGE value="two practical tips" />
+    <MESSAGE value="change blog unused to test postfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="change blog unused to test postfix" />
   </component>
 </project>

@@ -21,11 +21,11 @@ function HomepageHeader() {
               Blog
             </Link>
           </div>
-          <Link
-            className="button button--secondary button--sm"
-            to="/docs/intro">
-            Protfolio
-          </Link>
+          {/*<Link*/}
+          {/*  className="button button--secondary button--sm"*/}
+          {/*  to="/docs/intro">*/}
+          {/*  Protfolio*/}
+          {/*</Link>*/}
         </div>
       </div>
     </header>
