@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30a49b27-4ce4-47dd-85e5-13ce2c4ea358" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/my-website/blog/2019-05-28-first-blog-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/blog/2019-05-28-first-blog-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-website/blog/2021-08-26-welcome/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/blog/2021-08-26-welcome/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-website/blog/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/blog/authors.yml" afterDir="false" />
+    <list default="true" id="30a49b27-4ce4-47dd-85e5-13ce2c4ea358" name="Changes" comment="add welcome blog">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/2021-08-01-mdx-blog-post.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/my-website/blog/2021-08-01-mdx-blog-post.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -50,8 +48,16 @@
       <updated>1651212454317</updated>
       <workItem from="1651212455880" duration="1199000" />
       <workItem from="1651220212938" duration="8000" />
-      <workItem from="1651220221621" duration="1150000" />
+      <workItem from="1651220221621" duration="1755000" />
     </task>
+    <task id="LOCAL-00001" summary="add welcome blog">
+      <created>1651221526286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651221526286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add welcome blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="add welcome blog" />
   </component>
 </project>
