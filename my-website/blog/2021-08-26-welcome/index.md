@@ -1,25 +1,16 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [chenreuven]
+tags: [Welcome]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Hey All, nice to meet you :)
 
-Simply add Markdown files (or folders) to the `blog` directory.
+My Name is Chen Reuven, I am a software engineer and i LOVE Tech.
 
-Regular blog authors can be added to `authors.yml`.
+This is a blog about my tech life :).
 
-The blog post date can be extracted from filenames, such as:
+Hope That you will enjoy.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+<img alt="my avatar" src="https://chenreuven.github.io/tech/img/my-avatar.jpeg" width="320"/>
