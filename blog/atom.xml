@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenreuven.github.io/tech/blog</id>
     <title>Chen Reuven Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-09-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenreuven.github.io/tech/blog"/>
     <subtitle>Chen Reuven Blog</subtitle>
     <icon>https://chenreuven.github.io/tech/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Two Practical Tips]]></title>
+        <id>two-practical-tips</id>
+        <link href="https://chenreuven.github.io/tech/blog/two-practical-tips"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/two-practical-tips-that-will-help-you-on-your-next-fed-online-interview-752e0484d2ee" target="_blank" rel="noopener noreferrer">Two Practical Tips that will help you in your next online interview</a>.</p><p>Bless you All 🚀</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
@@ -21,16 +34,18 @@
         <category label="Welcome" term="Welcome"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Practical Tips]]></title>
-        <id>two-practical-tips</id>
-        <link href="https://chenreuven.github.io/tech/blog/two-practical-tips"/>
+        <title type="html"><![CDATA[The Ultimate Study Guide For Front End Interview]]></title>
+        <id>the-ultimate-study-guide-for-front-end-interview</id>
+        <link href="https://chenreuven.github.io/tech/blog/the-ultimate-study-guide-for-front-end-interview"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hey Guys,]]></summary>
-        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/two-practical-tips-that-will-help-you-on-your-next-fed-online-interview-752e0484d2ee" target="_blank" rel="noopener noreferrer">Two Practical Tips that will help you in your next online interview</a>.</p><p>Bless you All 🚀</p>]]></content>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/the-ultimate-study-guide-for-front-end-interview-776fa3ead1b3" target="_blank" rel="noopener noreferrer">The Ultimate Study Guide For Front End Interview</a>.</p><ul><li>i am search, invistigate and tests it on live, and i think the resources is very helpful to accept to your company Job that you interview.</li></ul><p>Bless you All 🚀</p>]]></content>
         <author>
             <name>Chen Reuven</name>
             <uri>https://chenreuven.github.io/tech</uri>
         </author>
         <category label="tips" term="tips"/>
+        <category label="frontend" term="frontend"/>
+        <category label="interview" term="interview"/>
     </entry>
 </feed>

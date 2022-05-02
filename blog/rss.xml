@@ -4,10 +4,19 @@
         <title>Chen Reuven Blog</title>
         <link>https://chenreuven.github.io/tech/blog</link>
         <description>Chen Reuven Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Two Practical Tips]]></title>
+            <link>https://chenreuven.github.io/tech/blog/two-practical-tips</link>
+            <guid>two-practical-tips</guid>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/two-practical-tips-that-will-help-you-on-your-next-fed-online-interview-752e0484d2ee" target="_blank" rel="noopener noreferrer">Two Practical Tips that will help you in your next online interview</a>.</p><p>Bless you All 🚀</p>]]></content:encoded>
+            <category>tips</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://chenreuven.github.io/tech/blog/welcome</link>
@@ -18,13 +27,15 @@
             <category>Welcome</category>
         </item>
         <item>
-            <title><![CDATA[Two Practical Tips]]></title>
-            <link>https://chenreuven.github.io/tech/blog/two-practical-tips</link>
-            <guid>two-practical-tips</guid>
+            <title><![CDATA[The Ultimate Study Guide For Front End Interview]]></title>
+            <link>https://chenreuven.github.io/tech/blog/the-ultimate-study-guide-for-front-end-interview</link>
+            <guid>the-ultimate-study-guide-for-front-end-interview</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hey Guys,]]></description>
-            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/two-practical-tips-that-will-help-you-on-your-next-fed-online-interview-752e0484d2ee" target="_blank" rel="noopener noreferrer">Two Practical Tips that will help you in your next online interview</a>.</p><p>Bless you All 🚀</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/the-ultimate-study-guide-for-front-end-interview-776fa3ead1b3" target="_blank" rel="noopener noreferrer">The Ultimate Study Guide For Front End Interview</a>.</p><ul><li>i am search, invistigate and tests it on live, and i think the resources is very helpful to accept to your company Job that you interview.</li></ul><p>Bless you All 🚀</p>]]></content:encoded>
             <category>tips</category>
+            <category>frontend</category>
+            <category>interview</category>
         </item>
     </channel>
 </rss>
