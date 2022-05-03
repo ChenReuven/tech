@@ -4,10 +4,30 @@
         <title>Chen Reuven Blog</title>
         <link>https://chenreuven.github.io/tech/blog</link>
         <description>Chen Reuven Blog</description>
-        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How Use Angular Alert Clarity Component Programmatic]]></title>
+            <link>https://chenreuven.github.io/tech/blog/angular-alert-clarity-component-programmatic</link>
+            <guid>angular-alert-clarity-component-programmatic</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/how-use-angular-alert-clarity-component-or-others-components-programmatic-5d23629e3337" target="_blank" rel="noopener noreferrer">How Use Angular Alert Clarity Component(or others components) Programmatic</a>.</p><p>Bless you All 🚀</p>]]></content:encoded>
+            <category>tips</category>
+            <category>angular</category>
+        </item>
+        <item>
+            <title><![CDATA[Structure Your Tests (With Examples)]]></title>
+            <link>https://chenreuven.github.io/tech/blog/structure-your-tests</link>
+            <guid>structure-your-tests</guid>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/structure-your-tests-with-examples-5bf1b5483e33" target="_blank" rel="noopener noreferrer">Structure Your Tests (With Examples)</a>.</p><p>Bless you All 🚀</p>]]></content:encoded>
+            <category>tips</category>
+            <category>test</category>
+        </item>
         <item>
             <title><![CDATA[How To Study For Job Interview Efficiently]]></title>
             <link>https://chenreuven.github.io/tech/blog/how-to-study-for-job-interview-efficiently</link>
@@ -19,15 +39,6 @@ Chen Reuven</p>]]></content:encoded>
             <category>tips</category>
             <category>study</category>
             <category>interview</category>
-        </item>
-        <item>
-            <title><![CDATA[Two Practical Tips]]></title>
-            <link>https://chenreuven.github.io/tech/blog/two-practical-tips</link>
-            <guid>two-practical-tips</guid>
-            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hey Guys,]]></description>
-            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/two-practical-tips-that-will-help-you-on-your-next-fed-online-interview-752e0484d2ee" target="_blank" rel="noopener noreferrer">Two Practical Tips that will help you in your next online interview</a>.</p><p>Bless you All 🚀</p>]]></content:encoded>
-            <category>tips</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
