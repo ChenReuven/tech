@@ -64,4 +64,20 @@ Chen Reuven</p>]]></content>
         <category label="frontend" term="frontend"/>
         <category label="interview" term="interview"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Angular Rating Component With TDD]]></title>
+        <id>angular-rating-component-wit-tdd</id>
+        <link href="https://chenreuven.github.io/tech/blog/angular-rating-component-wit-tdd"/>
+        <updated>2021-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Friends,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Friends,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/build-your-own-angular-rating-component-with-tdd-377b5e5ea60b" target="_blank" rel="noopener noreferrer">Build Your Own Angular Rating Component With TDD</a>.</p><p>Bless you All 🚀</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="angular" term="angular"/>
+        <category label="component" term="component"/>
+        <category label="tdd" term="tdd"/>
+    </entry>
 </feed>
