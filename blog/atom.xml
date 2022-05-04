@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenreuven.github.io/tech/blog</id>
     <title>Chen Reuven Blog</title>
-    <updated>2021-11-02T00:00:00.000Z</updated>
+    <updated>2021-11-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenreuven.github.io/tech/blog"/>
     <subtitle>Chen Reuven Blog</subtitle>
     <icon>https://chenreuven.github.io/tech/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TDD — Angular Pipe Full Example]]></title>
+        <id>tdd—angular-pipe-full-example</id>
+        <link href="https://chenreuven.github.io/tech/blog/tdd—angular-pipe-full-example"/>
+        <updated>2021-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/tdd-angular-pipe-full-example-cea32f8c0533" target="_blank" rel="noopener noreferrer">TDD — Angular Pipe Full Example</a>.</p><p>Bless you All 🚀</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="angular" term="angular"/>
+        <category label="tdd" term="tdd"/>
+        <category label="test" term="test"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TDD - Angular simple service example]]></title>
+        <id>tdd-angular-simple-service-example</id>
+        <link href="https://chenreuven.github.io/tech/blog/tdd-angular-simple-service-example"/>
+        <updated>2021-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/tdd-angular-simple-service-example-57d0e34a528a" target="_blank" rel="noopener noreferrer">TDD - Angular simple service example</a>.</p><p>Bless you All 🚀</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="angular" term="angular"/>
+        <category label="tdd" term="tdd"/>
+        <category label="test" term="test"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Use Angular Alert Clarity Component Programmatic]]></title>
         <id>angular-alert-clarity-component-programmatic</id>
