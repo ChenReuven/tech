@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1435],{5052:function(e){e.exports=JSON.parse('{"allTagsPath":"/tech/blog/tags","name":"quokka.js","count":1,"permalink":"/tech/blog/tags/quokka-js"}')}}]);

@@ -4,10 +4,46 @@
         <title>Chen Reuven Blog</title>
         <link>https://chenreuven.github.io/tech/blog</link>
         <description>Chen Reuven Blog</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Be More Productive Today - Part 2]]></title>
+            <link>https://chenreuven.github.io/tech/blog/be-more-productive-today-part2</link>
+            <guid>be-more-productive-today-part2</guid>
+            <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/be-more-productive-today-chapter-2-811fe519c959" target="_blank" rel="noopener noreferrer">Be More Productive Today - Part 2</a>.</p><p>Wish you all good,
+Chen.Reuven 😊</p>]]></content:encoded>
+            <category>tips</category>
+            <category>productive</category>
+            <category>tools</category>
+        </item>
+        <item>
+            <title><![CDATA[Be More Productive Today]]></title>
+            <link>https://chenreuven.github.io/tech/blog/be-more-productive-today</link>
+            <guid>be-more-productive-today</guid>
+            <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/be-more-productive-today-bdb2a8931325" target="_blank" rel="noopener noreferrer">Be More Productive Today - Part 1</a>.</p><p>Best Regards,
+Chen.Reuven 😊</p>]]></content:encoded>
+            <category>tips</category>
+            <category>productive</category>
+            <category>tools</category>
+        </item>
+        <item>
+            <title><![CDATA[Use Quokka.js tool as a Front End Developer]]></title>
+            <link>https://chenreuven.github.io/tech/blog/use-quokka.js-tool-as-a-front-end-developer</link>
+            <guid>use-quokka.js-tool-as-a-front-end-developer</guid>
+            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/tip-how-to-use-quokka-js-tool-java-code-as-a-front-end-developer-32d7ae0a089f" target="_blank" rel="noopener noreferrer">use Quokka.js tool as a Front End Developer</a>.</p><p>Best Regards,
+Chen.Reuven 😊</p>]]></content:encoded>
+            <category>tips</category>
+            <category>angular</category>
+            <category>quokka.js</category>
+        </item>
         <item>
             <title><![CDATA[TDD — Angular Pipe Full Example]]></title>
             <link>https://chenreuven.github.io/tech/blog/tdd—angular-pipe-full-example</link>
