@@ -4,10 +4,35 @@
         <title>Chen Reuven Blog</title>
         <link>https://chenreuven.github.io/tech/blog</link>
         <description>Chen Reuven Blog</description>
-        <lastBuildDate>Tue, 09 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[2 Quick Tips for better code guard with Angular]]></title>
+            <link>https://chenreuven.github.io/tech/blog/2-quick-tips-for-better-code-guard-with-angular</link>
+            <guid>2-quick-tips-for-better-code-guard-with-angular</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/2-quick-tips-for-better-code-guard-with-angular-and-type-script-ebb21b0058b8" target="_blank" rel="noopener noreferrer">2 Quick Tips for better code guard with Angular</a>.</p><p>Bless you all,
+Chen.Reuven 😊</p>]]></content:encoded>
+            <category>tips</category>
+            <category>angular</category>
+            <category>gaurd</category>
+        </item>
+        <item>
+            <title><![CDATA[i18n (Internalization) on Angular]]></title>
+            <link>https://chenreuven.github.io/tech/blog/i18n-internalization-on-angular-aot-mode</link>
+            <guid>i18n-internalization-on-angular-aot-mode</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/i18n-internalization-aot-on-angular-fe35598478f7" target="_blank" rel="noopener noreferrer">i18n on Angular [AOT Mode]</a>.</p><p>Bless you all,
+Chen.Reuven 😊</p>]]></content:encoded>
+            <category>tips</category>
+            <category>i18n</category>
+            <category>angular</category>
+            <category>tools</category>
+        </item>
         <item>
             <title><![CDATA[ngx-toastr with custom buttons]]></title>
             <link>https://chenreuven.github.io/tech/blog/ngx-toastr-with-custom-buttons</link>

@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenreuven.github.io/tech/blog</id>
     <title>Chen Reuven Blog</title>
-    <updated>2021-11-09T00:00:00.000Z</updated>
+    <updated>2021-11-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenreuven.github.io/tech/blog"/>
     <subtitle>Chen Reuven Blog</subtitle>
     <icon>https://chenreuven.github.io/tech/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2 Quick Tips for better code guard with Angular]]></title>
+        <id>2-quick-tips-for-better-code-guard-with-angular</id>
+        <link href="https://chenreuven.github.io/tech/blog/2-quick-tips-for-better-code-guard-with-angular"/>
+        <updated>2021-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/2-quick-tips-for-better-code-guard-with-angular-and-type-script-ebb21b0058b8" target="_blank" rel="noopener noreferrer">2 Quick Tips for better code guard with Angular</a>.</p><p>Bless you all,
+Chen.Reuven 😊</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="angular" term="angular"/>
+        <category label="gaurd" term="gaurd"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i18n (Internalization) on Angular]]></title>
+        <id>i18n-internalization-on-angular-aot-mode</id>
+        <link href="https://chenreuven.github.io/tech/blog/i18n-internalization-on-angular-aot-mode"/>
+        <updated>2021-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/i18n-internalization-aot-on-angular-fe35598478f7" target="_blank" rel="noopener noreferrer">i18n on Angular [AOT Mode]</a>.</p><p>Bless you all,
+Chen.Reuven 😊</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="i18n" term="i18n"/>
+        <category label="angular" term="angular"/>
+        <category label="tools" term="tools"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ngx-toastr with custom buttons]]></title>
         <id>ngx-toastr-with-custom-buttons</id>
