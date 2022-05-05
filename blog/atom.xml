@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenreuven.github.io/tech/blog</id>
     <title>Chen Reuven Blog</title>
-    <updated>2021-11-07T00:00:00.000Z</updated>
+    <updated>2021-11-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenreuven.github.io/tech/blog"/>
     <subtitle>Chen Reuven Blog</subtitle>
     <icon>https://chenreuven.github.io/tech/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ngx-toastr with custom buttons]]></title>
+        <id>ngx-toastr-with-custom-buttons</id>
+        <link href="https://chenreuven.github.io/tech/blog/ngx-toastr-with-custom-buttons"/>
+        <updated>2021-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/ngx-toastr-with-custom-buttons-a23b90ab5a08" target="_blank" rel="noopener noreferrer">ngx-toastr with custom buttons</a>.</p><p>Bless you all,
+Chen.Reuven 😊</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="ngx-toastr" term="ngx-toastr"/>
+        <category label="angular" term="angular"/>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be More Productive Today - Part 3]]></title>
+        <id>be-more-productive-today-part3</id>
+        <link href="https://chenreuven.github.io/tech/blog/be-more-productive-today-part3"/>
+        <updated>2021-11-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/be-more-productive-today-chapter-3-d5b7f640e23d" target="_blank" rel="noopener noreferrer">Be More Productive Today - Part 3</a>.</p><p>Wish you all good,
+Chen.Reuven 😊</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="productive" term="productive"/>
+        <category label="tools" term="tools"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Be More Productive Today - Part 2]]></title>
         <id>be-more-productive-today-part2</id>
