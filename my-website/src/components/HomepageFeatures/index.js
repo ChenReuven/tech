@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import myAvatar from '@site/static/img//my-avatar.jpeg';
+import Tilt from 'react-parallax-tilt';
 
 const FeatureList = [
   {
@@ -58,7 +59,12 @@ export default function HomepageFeatures() {
           {/* {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))} */}
-          <img src={myAvatar} width={250}/>
+          <Tilt>
+            <div style={{ border: '1px solid dashed' }}>
+              <img src={myAvatar} width={250}/>
+              <h6 style={{ textAlign: 'center' }}>Hover With Cursor Mouse 👀</h6>
+            </div>
+          </Tilt>
         </div>
       </div>
     </section>
