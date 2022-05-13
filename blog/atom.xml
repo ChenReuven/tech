@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenreuven.github.io/tech/blog</id>
     <title>Chen Reuven Blog</title>
-    <updated>2021-11-11T00:00:00.000Z</updated>
+    <updated>2022-05-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenreuven.github.io/tech/blog"/>
     <subtitle>Chen Reuven Blog</subtitle>
     <icon>https://chenreuven.github.io/tech/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How To Empower Draw.io In Your Readme File]]></title>
+        <id>how-to-empower-drawio-in-your-readme-file</id>
+        <link href="https://chenreuven.github.io/tech/blog/how-to-empower-drawio-in-your-readme-file"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,]]></summary>
+        <content type="html"><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/how-to-empower-draw-io-in-your-readme-file-732519198bac" target="_blank" rel="noopener noreferrer">How To Empower Draw.io In Your Readme File</a>.</p><p>Bless you all,
+Chen.Reuven 😊</p>]]></content>
+        <author>
+            <name>Chen Reuven</name>
+            <uri>https://chenreuven.github.io/tech</uri>
+        </author>
+        <category label="tips" term="tips"/>
+        <category label="productivity" term="productivity"/>
+        <category label="readme" term="readme"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2 Quick Tips for better code guard with Angular]]></title>
         <id>2-quick-tips-for-better-code-guard-with-angular</id>

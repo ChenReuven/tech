@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5519],{8892:function(e){e.exports=JSON.parse('{"permalink":"/tech/blog/tags/tips/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":15,"previousPage":"/tech/blog/tags/tips","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

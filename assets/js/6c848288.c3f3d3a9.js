@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9365],{957:function(t){t.exports=JSON.parse('{"allTagsPath":"/tech/blog/tags","name":"productivity","count":1,"permalink":"/tech/blog/tags/productivity"}')}}]);

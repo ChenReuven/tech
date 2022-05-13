@@ -4,10 +4,22 @@
         <title>Chen Reuven Blog</title>
         <link>https://chenreuven.github.io/tech/blog</link>
         <description>Chen Reuven Blog</description>
-        <lastBuildDate>Thu, 11 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How To Empower Draw.io In Your Readme File]]></title>
+            <link>https://chenreuven.github.io/tech/blog/how-to-empower-drawio-in-your-readme-file</link>
+            <guid>how-to-empower-drawio-in-your-readme-file</guid>
+            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey Guys,]]></description>
+            <content:encoded><![CDATA[<p>Hey Guys,</p><p>What׳s up?</p><p>Here is a Blog posts for <a href="https://medium.com/@chen.reuven/how-to-empower-draw-io-in-your-readme-file-732519198bac" target="_blank" rel="noopener noreferrer">How To Empower Draw.io In Your Readme File</a>.</p><p>Bless you all,
+Chen.Reuven 😊</p>]]></content:encoded>
+            <category>tips</category>
+            <category>productivity</category>
+            <category>readme</category>
+        </item>
         <item>
             <title><![CDATA[2 Quick Tips for better code guard with Angular]]></title>
             <link>https://chenreuven.github.io/tech/blog/2-quick-tips-for-better-code-guard-with-angular</link>
